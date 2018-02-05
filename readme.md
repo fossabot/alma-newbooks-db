@@ -1,4 +1,4 @@
-# alma-newbooks-db
+# alma-newbooks-db &middot; [![License Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscriptotek%2Falma-newbooks-db.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscriptotek%2Falma-newbooks-db?ref=badge_shield)
 
 A tool for creating lists of recent acquisitions from data harvested from
 Alma Analytics nightly and stored in a local database.
@@ -11,7 +11,6 @@ Login can be configured to use SAML or a local login system.
 A list from [ub-tilvekst.uio.no](https://ub-tilvekst.uio.no/):
 
 ![Screenshot](docs/screenshot-list.png)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscriptotek%2Falma-newbooks-db.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscriptotek%2Falma-newbooks-db?ref=badge_shield)
 
 The list editing interface:
 
